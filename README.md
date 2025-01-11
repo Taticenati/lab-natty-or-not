@@ -1,5 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
-Podcast: Vem comigo perder seu medo e começar a costurar!
+# Podcast: Vem comigo perder seu medo e começar a costurar!
 
 ## 📒 Descrição
 Este podcast de 1,37 minutos oferece um passeio rápido por minha história de vida na costura, e fornece um incentivo para quem quer começar.
